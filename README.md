@@ -1,4 +1,4 @@
-# 🚴 Yulu Bike Rental Demand — Hypothesis Testing & Business Analytics
+# 🚴 YYulu Bike Rental Demand Analysis
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-purple) ![Statistics](https://img.shields.io/badge/Statistics-Hypothesis%20Testing-orange) ![EDA](https://img.shields.io/badge/EDA-Business%20Analytics-green) ![Status](https://img.shields.io/badge/Project-Completed-success)
 
