@@ -128,8 +128,7 @@ The analytical dataset provides a foundation for future predictive modelling.
     yulu_business_case/
     ├── README.md
     ├── Analysis Notebook
-    ├── Dataset / Reference Files
-    └── Supporting Analysis
+    ├── Dataset
 
 ## 🛠️ Technology Stack
 
